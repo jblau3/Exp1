@@ -9,6 +9,7 @@ app = Flask(__name__)
 
 #Heres another change
 
+#This comes from the web interface
 hardware = Hardware()
 perfRPT = PerfRPT()
 
